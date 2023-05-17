@@ -1,0 +1,2 @@
+bash run_predict_singlegpu.sh
+python model_ensemble.py

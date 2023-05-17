@@ -1,0 +1,6 @@
+bash run_train_multigpus_biolinkbert-large.sh
+bash run_train_multigpus_biolinkbert-large_drop-overlap.sh
+bash run_train_singlegpu_biobert-base.sh
+bash run_train_singlegpu_biobert-base_drop-overlap.sh
+bash run_train_singlegpu_pubmedbert-base-abstract.sh
+bash run_train_singlegpu_deberta-base.sh
